@@ -1,2 +1,0 @@
-##mac;name;status(0=out;1=in)
-22:22:D6:8C:E9:17;fabrizio;0
